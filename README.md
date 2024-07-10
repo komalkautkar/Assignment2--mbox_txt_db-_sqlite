@@ -1,2 +1,3 @@
-Developed a database application using Python and SQLite to process and analyze email data from an mbox file. Implemented data extraction, transformation, 
-and loading (ETL) processes to store email information in a structured database for efficient querying and analysis.
+Title: Counting Organizations
+
+Developed an application using Python and SQLite to read and process unstructured mailbox data (mbox.txt). Extracted and counted email messages per organization (based on the domain name of the email address) and stored the results in a structured database.
